@@ -37,3 +37,4 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
